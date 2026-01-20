@@ -3,6 +3,9 @@ MyProjects. Websites etc.
 
 EasyDigitalTools:
 
+https://agecalculator24.com/
+AgeCalculator24.com is a fast and easy age calculator. It calculates your exact age from your date of birth and displays it in years, months, days, weeks, hours, minutes, and seconds. It also displays your age when famous events happened throughout history.
+
 https://checkmyip.net/
 CheckMyIP.net is a fast, simple IP address lookup tool. It shows your public IP address and basic connection details so you can troubleshoot networking, VPN/proxy setups, firewall rules, remote access, and website access issues. 
 
