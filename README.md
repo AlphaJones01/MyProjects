@@ -3,6 +3,9 @@ MyProjects. Websites etc.
 
 EasyDigitalTools:
 
+https://bmicalculator24.org/
+Simple, fast, clean and effective bmi calculator usable with KG and lb.
+
 https://agecalculator24.com/
 AgeCalculator24.com is a fast and easy age calculator. It calculates your exact age from your date of birth and displays it in years, months, days, weeks, hours, minutes, and seconds. It also displays your age when famous events happened throughout history.
 
