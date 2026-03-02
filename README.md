@@ -100,7 +100,7 @@ Calculates exact age in years, months, days, weeks, hours, minutes, and seconds.
 
 🔗 https://caloriecalculator24.com/
 
-Target keywords: calorie calculator, daily calorie needs
+Target keywords: calorie deficit calculator, calorie calculator, daily calorie needs
 
 Estimates daily calorie requirements based on weight, height, age, and activity level.
 
@@ -128,7 +128,7 @@ Convert Unix timestamps to readable dates and vice versa.
 
 📝 Word Counter
 
-🔗 https://wordcounter24.com/
+🔗 https://wordcounter24.net/
 
 Target keywords: word counter, character counter
 
